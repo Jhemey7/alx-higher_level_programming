@@ -25,8 +25,8 @@ size_t print_listint(const listint_t *h)
 }
 
 /**
- * add_nodeint - adds a node at the beginning of  listint_t list
- * @head: pntr to a pointer of the start of list
+ * add_nodeint - adds a new node at the beginning of a listint_t list
+ * @head: pointer to a pointer of the start of the list
  * @n: integer to be included in node
  * Return: address of the new element or NULL if it fails
  */
