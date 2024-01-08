@@ -1,0 +1,13 @@
+===============================
+1. Print sorted module
+===============================
+
+Import module:
+==============
+    >>> MyList = __import__('1-my_list').MyList
+
+
+Function:
+=========
+Write a class MyList that inherits from list:
+
